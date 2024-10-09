@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+  background-color: rgba(16, 6, 6, 0.871);
+  color: white;
+}
+.addEvent{
+  cursor: pointer;
+  left: auto;
+  position: absolute;
+  right: 30px;
+  top: 85vh;
+  color: #000;
+  font-size: 45px;
+  font-weight: 400;
+  width: 70px;
+  height: 70px;
+  display:inline-block;
+  text-align: center;
+  border-radius: 50%;
+  background-color: rgb(170, 113, 9);
+  text-decoration: none;
+}
