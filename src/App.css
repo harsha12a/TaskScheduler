@@ -21,7 +21,7 @@ body::before{
 .addEvent{
   cursor: pointer;
   left: auto;
-  position: absolute;
+  position: fixed;
   right: 30px;
   top: 85vh;
   color: #000;
